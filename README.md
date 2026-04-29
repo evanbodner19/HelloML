@@ -22,15 +22,3 @@ pip install numpy
 ```bash
 python score_predicter.py
 ```
-
-Trains for 200 epochs on the built-in dataset, then predicts the score for 8 hours of study.
-
-## Training data
-
-| Hours | Score |
-|-------|-------|
-| 1     | 35    |
-| 2     | 43    |
-| 3     | 50    |
-| 4     | 68    |
-| 5     | 79    |
